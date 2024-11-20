@@ -1,4 +1,4 @@
-# Flask-based Interactive Weekly Schedule Manager By @HunterOfGalaxy
+# Flask-based Interactive Weekly Schedule Manager By Bismaya
 
 This is a simple web-based application built using **Flask** that allows users to manage and edit their weekly schedule. The application loads the schedule from a `schedule.json` file and presents it on a webpage where users can edit, update, and save their timetable.
 
