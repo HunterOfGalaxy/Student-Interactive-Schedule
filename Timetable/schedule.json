@@ -1,0 +1,256 @@
+{
+    "Sunday": [
+        {
+            "time": "-",
+            "subject": "-",
+            "course_code": "-",
+            "room": "-",
+            "teacher": "-",
+            "details": ""
+        }
+    ],
+    "Monday": [
+        {
+            "time": "9:30 AM - 10:30 AM",
+            "subject": "Environmental Science",
+            "course_code": "CUTM1674",
+            "room": "R.N-218",
+            "teacher": "Saismruti Ranjan Mohanty",
+            "details": ""
+        },
+        {
+            "time": "10:30 AM - 11:30 AM",
+            "subject": "Applied Engineering Materials",
+            "course_code": "CUTM1009",
+            "room": "R.N-218",
+            "teacher": "Chitta Ranjan Routray",
+            "details": ""
+        },
+        {
+            "time": "11:30 AM - 12:30 PM",
+            "subject": "Electronics Devices and Systems",
+            "course_code": "CUTM1046",
+            "room": "R.N-318",
+            "teacher": "Subrat Kumar Pradhan",
+            "details": ""
+        },
+        {
+            "time": "Lunch",
+            "subject": "-",
+            "room": "-",
+            "course_code": "",
+            "teacher": "",
+            "details": ""
+        },
+        {
+            "time": "2:30 PM - 3:30 PM",
+            "subject": "Engineering Economics and Costing",
+            "course_code": "CUTM1012",
+            "room": "R.N-218",
+            "teacher": "Smruti Ranjan Sahoo",
+            "details": ""
+        },
+        {
+            "time": "3:30 PM - 4:30 PM",
+            "subject": "Job Readiness/English",
+            "course_code": "N/A",
+            "room": "R.N-317",
+            "teacher": "Unknown",
+            "details": ""
+        }
+    ],
+    "Tuesday": [
+        {
+            "time": "9:30 AM - 10:30 AM",
+            "subject": "Discrete Mathematics",
+            "course_code": "CUTM1004",
+            "room": "R.N-213",
+            "teacher": "Tejaswini Pradhan",
+            "details": ""
+        },
+        {
+            "time": "10:30 AM - 11:30 AM",
+            "subject": "Data Analysis and Visualization Using Python",
+            "course_code": "CUTM1018",
+            "room": "R.N-213",
+            "teacher": "Amit Kumar Sahoo",
+            "details": ""
+        },
+        {
+            "time": "Lunch",
+            "subject": "-",
+            "room": "-",
+            "course_code": "",
+            "teacher": "",
+            "details": ""
+        },
+        {
+            "time": "1:30 PM - 2:30 PM",
+            "subject": "Engineering Economics and Costing",
+            "course_code": "CUTM1012",
+            "room": "R.N-221",
+            "teacher": "Smruti Ranjan Sahoo",
+            "details": ""
+        },
+        {
+            "time": "2:30 PM - 3:30 PM",
+            "subject": "Applied Engineering Materials",
+            "course_code": "CUTM1009",
+            "room": "R.N-221",
+            "teacher": "Chitta Ranjan Routray",
+            "details": ""
+        },
+        {
+            "time": "3:30 PM - 4:30 PM",
+            "subject": "Electronics Devices and Systems",
+            "course_code": "CUTM1046",
+            "room": "R.N-317",
+            "teacher": "Subrat Kumar Pradhan",
+            "details": ""
+        }
+    ],
+    "Wednesday": [
+        {
+            "time": "10:30 AM - 11:30 AM",
+            "subject": "Job Readiness/English",
+            "course_code": "-",
+            "room": "R.N-219",
+            "teacher": "Unknown",
+            "details": ""
+        },
+        {
+            "time": "Lunch",
+            "subject": "-",
+            "room": "-",
+            "course_code": "",
+            "teacher": "",
+            "details": ""
+        },
+        {
+            "time": "2:30 PM - 3:30 PM",
+            "subject": "Engineering Economics and Costing",
+            "course_code": "CUTM1012",
+            "room": "R.N-318",
+            "teacher": "Smruti Ranjan Sahoo",
+            "details": ""
+        },
+        {
+            "time": "3:30 PM - 4:30 PM",
+            "subject": "Environmental Science",
+            "course_code": "CUTM1674",
+            "room": "R.N-219",
+            "teacher": "Saismruti Ranjan Mohanty",
+            "details": ""
+        }
+    ],
+    "Thursday": [
+        {
+            "time": "9:30 AM - 10:30 AM",
+            "subject": "Discrete Mathematics",
+            "course_code": "CUTM1004",
+            "room": "R.N-217",
+            "teacher": "Subrat Kumar Pradhan",
+            "details": ""
+        },
+        {
+            "time": "10:30 AM - 11:30 AM",
+            "subject": "Data Analysis and Visualization Using Python",
+            "course_code": "CUTM1018",
+            "room": "R.N-217",
+            "teacher": "Amit Kumar Sahoo",
+            "details": ""
+        },
+        {
+            "time": "11:30 AM - 12:30 PM",
+            "subject": "Environmental Science",
+            "course_code": "CUTM1674",
+            "room": "R.N-317",
+            "teacher": "Saismruti Ranjan Mohanty",
+            "details": ""
+        },
+        {
+            "time": "Lunch",
+            "subject": "-",
+            "room": "-",
+            "course_code": "",
+            "teacher": "",
+            "details": ""
+        },
+        {
+            "time": "1:30 PM - 3:30 PM",
+            "subject": "Electronics Devices and Systems Lab J-2",
+            "course_code": "CUTM1046",
+            "room": "Room No: 207",
+            "teacher": "Subrat Kumar Pradhan",
+            "details": ""
+        },
+        {
+            "time": "3:30 PM - 5:30 PM",
+            "subject": "Data Analysis and Visualization Using Python Lab",
+            "course_code": "CUTM1018",
+            "room": "Room No: 304",
+            "teacher": "Amit Kumar Sahoo",
+            "details": ""
+        }
+    ],
+    "Friday": [
+        {
+            "time": "9:30 AM - 10:30 AM",
+            "subject": "Electronics Devices and Systems",
+            "course_code": "CUTM1046",
+            "room": "R.N-221",
+            "teacher": "Subrat Kumar Pradhan",
+            "details": ""
+        },
+        {
+            "time": "10:30 AM - 11:30 AM",
+            "subject": "Data Analysis and Visualization Using Python",
+            "course_code": "CUTM1018",
+            "room": "R.N-316",
+            "teacher": "Amit Kumar Sahoo",
+            "details": ""
+        },
+        {
+            "time": "11:30 AM - 12:30 PM",
+            "subject": "Discrete Mathematics",
+            "course_code": "CUTM1004",
+            "room": "R.N-221",
+            "teacher": "Tejaswini Pradhan",
+            "details": ""
+        },
+        {
+            "time": "Lunch",
+            "subject": "-",
+            "room": "-",
+            "course_code": "",
+            "teacher": "",
+            "details": ""
+        },
+        {
+            "time": "1:30 PM - 3:30 PM",
+            "subject": "Applied Engineering Materials Lab J-2",
+            "course_code": "CUTM1009",
+            "room": "Room No: 105",
+            "teacher": "Chitta Ranjan Routray",
+            "details": ""
+        },
+        {
+            "time": "3:30 PM - 4:30 PM",
+            "subject": "Environmental Science",
+            "course_code": "CUTM1674",
+            "room": "R.N-221",
+            "teacher": "Saismruti Ranjan Mohanty",
+            "details": ""
+        }
+    ],
+    "Saturday": [
+        {
+            "time": "N/A",
+            "subject": "N/A",
+            "room": "-",
+            "course_code": "None",
+            "teacher": "N/A",
+            "details": ""
+        }
+    ]
+}
