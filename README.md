@@ -146,4 +146,4 @@ This project is licensed under the MIT License.
 
 ---
 
-This `README.md` file provides instructions on running, editing, and customizing the application. The key focus is on how to interact with the `schedule.json` file and how to start the Flask app to manage your weekly timetable.
+By Student For The Students
